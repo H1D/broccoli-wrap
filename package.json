@@ -1,7 +1,7 @@
 {
   "name": "broccoli-wrap",
   "description": "Wrap filter for Broccoli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Artem Sushchev <Suschev.Artem@gmail.com>",
   "main": "index.js",
   "license": "MIT",
