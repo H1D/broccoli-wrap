@@ -1,3 +1,7 @@
+# this repo is obsolete! Use `map()` from [stefanpenner/broccoli-stew](https://github.com/stefanpenner/broccoli-stew) instead! How to reaplce example: [asakusuma/ember-rollup/pull/5/files](https://github.com/asakusuma/ember-rollup/pull/5/files)
+
+---
+
 # broccoli-wrap
 
 ## Installation
